@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.3",
-  "latestVersionCode":3,
-  "url": "https://play.google.com/store/apps/details?id=com.goplextv",
+  "latestVersion": "1.0.11",
+  "latestVersionCode":11,
+  "url": "https://play.google.com/store/apps/details?id=com.playgnula.livetv",
   "releaseNotes": [
     "- Compatibilidad con 64 Bits",
     "- Web video Cast( SmarTV, DLNA, Roku)",
