@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.0.13",
-  "latestVersionCode":13,
+  "latestVersion": "1.0.14",
+  "latestVersionCode":14,
   "url": "https://play.google.com/store/apps/details?id=com.playgnula.livetv",
   "releaseNotes": [
-    "- Lamentamo mucho llegar a este extremo",
-    "- pero necesito que por favor lean el mensaje ",
-    "- publicado en Nuestro Facebook"
+    "- Mejora en el uso y búsqueda de canales",
+    "- Error de lentitud en canales RESUELTO",
+    "- otros errores pequeños reparados"
   ]
 }
