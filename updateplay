@@ -1,10 +1,10 @@
 {
   "latestVersion": "1.0.21",
   "latestVersionCode":21,
-  "url": "https://play.google.com/store/apps/details?id=com.app.litegnulatv",
+  "url": "https://play.google.com/store/apps/details?id=com.playgnula.livetv",
   "releaseNotes": [
     "- Toma nota de este código antes de Actualizar 451827 (es muy importante)",
     "- Solo así Tu APP se actualizara correctamente",
-    "- Pequeños errores reparados"
+    "- ChromeCast Reparado y pequeños bugs reparados"
   ]
 }
